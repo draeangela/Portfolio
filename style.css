@@ -195,7 +195,31 @@ body {
         margin-top: 200px;
     }
 
+    p{ 
+      text-align: center;
+    }
 
+    .ssh1 {
+      text-align: center;
+    }
+    
+    .container4{
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+    }
+
+    .docs{
+      text-align: justify;
+      margin-left: 11%;
+      margin-top: 11%;
+    }
+
+    .pdr{
+      display: block;
+      margin: 0 auto;
+    }
+    
 
 
 
